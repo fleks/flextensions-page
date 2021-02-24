@@ -1,2 +1,2 @@
-# flextensions-com
+# flextensions-page
 Flextensions.com Wordpress
